@@ -1,0 +1,3 @@
+void lerDoTerminal() {
+  nameBook = std
+}
